@@ -1,0 +1,15 @@
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\bin\Debug\net6.0\Jędrzej Juskowiak.exe
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\bin\Debug\net6.0\Jędrzej Juskowiak.deps.json
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\bin\Debug\net6.0\Jędrzej Juskowiak.runtimeconfig.json
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\bin\Debug\net6.0\Jędrzej Juskowiak.dll
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\bin\Debug\net6.0\Jędrzej Juskowiak.pdb
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.csproj.AssemblyReference.cache
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.AssemblyInfoInputs.cache
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.AssemblyInfo.cs
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.csproj.CoreCompileInputs.cache
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.dll
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\refint\Jędrzej Juskowiak.dll
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.pdb
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\Jędrzej Juskowiak.genruntimeconfig.cache
+C:\Users\jedrek\Desktop\Programowanie wsb\Jędrzej Juskowiak\Jędrzej Juskowiak\obj\Debug\net6.0\ref\Jędrzej Juskowiak.dll
